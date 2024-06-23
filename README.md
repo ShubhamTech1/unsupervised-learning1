@@ -1,6 +1,8 @@
 #unsupervised-learning1
 task:- Association rule 
 
+It is a Generalized Concept for decision making. 
+
 
 
 Data Mining Unsupervised Learning / Descriptive Modeling - Association Rule Mining
